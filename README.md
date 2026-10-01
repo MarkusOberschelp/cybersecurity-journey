@@ -75,3 +75,39 @@ Documenting my path from zero to Offensive Security.
 - Bandit 24+
 - TryHackMe Pre-Security
 - Python basics
+
+- ## Progress Update – Bandit 22-26
+
+### New Tools Learned
+- `md5sum` – MD5 hashing
+- `cut` – cut text fields
+- `cron` / `crontab` – scheduled tasks
+- `more` / `less` – pagers
+- `vi` – editor (shell escape)
+
+### New Concepts
+- **cron jobs** – scheduled tasks
+- **Reading and analyzing shell scripts**
+- **Command substitution** `$(...)`
+- **Writing my first shell script**
+- **Brute-force scripting** – trying all combinations
+- **setuid binaries** – privilege escalation
+- **Shell escape** – breaking out of a pager into a shell
+- **Terminal size matters** – affects program behavior
+
+### Bandit Levels Completed
+- Level 0-26 ✅ (27 levels)
+
+### Challenges I Faced
+- Shell escape from `more`/`less` took several attempts
+- Understanding script logic required careful reading
+- Brute-force script needed patience and testing
+
+- An manchen Tagen denke ich, dass ich überhaupt nichts verstehe...  dann gibt es aber glücklicherweise Tage wie heute, an denen es "runder" läuft
+
+alles in allem also keine gleichförmige Entwicklung in Bezug auf meine Lernkurve :P
+
+### Next Steps
+- Bandit 27+ (Git)
+- TryHackMe Pre-Security
+- Python basics
