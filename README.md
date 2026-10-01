@@ -111,3 +111,72 @@ alles in allem also keine gleichförmige Entwicklung in Bezug auf meine Lernkurv
 - Bandit 27+ (Git)
 - TryHackMe Pre-Security
 - Python basics
+
+- # Cybersecurity Journey
+
+Documenting my path from zero to Offensive Security.
+
+## 🏆 OverTheWire Bandit – COMPLETED (Level 0-33)
+
+### Skills Acquired
+
+#### Linux Fundamentals
+- Navigation, file system, permissions
+- File operations (mkdir, touch, cp, mv, rm)
+- Piping and redirection
+- Process management
+- Text processing (grep, sort, uniq, cut, tr)
+
+#### Networking
+- localhost, ports, services
+- TLS/SSL basics
+- SSH keys vs. passwords
+- `nc` (netcat) – client and listener
+- `nmap` – port scanning
+
+#### Cryptography
+- Base64 encoding/decoding
+- ROT13 rotation
+- MD5 hashing
+- SSH key authentication
+
+#### Privilege Escalation
+- setuid binaries
+- cron jobs
+- Shell escape (more/less, vi, restricted shell)
+- Reading and analyzing shell scripts
+
+#### Git
+- Cloning repositories
+- Branches (checkout, branch -a)
+- Tags (tag, show)
+- Commits and pushing
+- .gitignore and git add -f
+
+### Tools Learned
+`xxd` `file` `strings` `grep` `base64` `tr` `tar` `gzip` `bzip2`
+`openssl s_client` `nc` `nmap` `scp` `diff` `find` `sort` `uniq`
+`md5sum` `cut` `cron` `more` `less` `vi` `git`
+
+### Scripts Written
+- **Level 23:** First shell script – executed by a cron job
+- **Level 24:** Brute-force script – 10,000 PIN combinations
+
+### Challenges Faced
+- Shell escape from `more`/`less` took several attempts
+- Understanding complex script logic required careful reading
+- SSH key transfer issues (solved with `scp`)
+- Permission debugging
+
+## Goals
+- Junior Penetration Tester within 12 months
+- OSCP certification
+- Specialization: Multimedia Forensics (Audio/Video/Image Steganography)
+
+## Next Steps
+- [ ] TryHackMe Pre-Security
+- [ ] Python fundamentals
+- [ ] Hack The Box Starting Point
+- [ ] PortSwigger Web Security Academy
+
+
