@@ -179,4 +179,11 @@ Documenting my path from zero to Offensive Security.
 - [ ] Hack The Box Starting Point
 - [ ] PortSwigger Web Security Academy
 
+## TryHackMe Progress
+
+- [x] Computer Types
+- [x] Operating Systems: Introduction
+- [ ] Windows Basics (in progress)
+- [ ] Network Fundamentals
+- [ ] Web Communication
 
