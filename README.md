@@ -187,3 +187,25 @@ Documenting my path from zero to Offensive Security.
 - [ ] Network Fundamentals
 - [ ] Web Communication
 
+
+## OverTheWire Bandit
+- [x] COMPLETED ✅ (Level 0–33)
+- Covered: Linux navigation, permissions, SSH keys, cron, setuid, shell escape, Git
+
+## TryHackMe Pre-Security Path
+- [x] COMPLETED ✅ (5th October 2026)
+- Certificate: THM-EUXVUJFFJR
+- Duration: 19 hours 10 minutes
+
+### What I Learned
+- Linux CLI & Windows Basics
+- Computer Types & Operating Systems
+- Client-Server Basics & Web Communication
+- Data Representation & Software Basics
+- Network Fundamentals (TCP/IP, DNS, HTTP)
+- How the Web Works
+- Attacks & Defense
+- Cryptography & CIA-Triade
+
+### Next Step
+- [ ] SOC Level 1 (in progress)
