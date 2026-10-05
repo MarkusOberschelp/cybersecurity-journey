@@ -207,5 +207,5 @@ Documenting my path from zero to Offensive Security.
 - Attacks & Defense
 - Cryptography & CIA-Triade
 
-### Next Step
-- [ ] SOC Level 1 (in progress)
+### Next Step TryHackMe Cyber Security 101
+- [ ] SEC1 Modul 1 (in progress)
