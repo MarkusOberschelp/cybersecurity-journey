@@ -209,3 +209,38 @@ Documenting my path from zero to Offensive Security.
 
 ### Next Step TryHackMe Cyber Security 101
 - [ ] SEC1 Modul 1 (in progress)
+
+- [ ] ## Cyber Security 101 (SEC1) – In Progress
+
+### Module Completed
+- [x] Module 1 – Start Your Cyber Security Journey ✅
+- [x] Module 2 – Linux Fundamentals ✅
+- [ ] Module 3 – In Progress
+- [ ] Module 4
+- [ ] Module 5
+- [ ] Module 6
+- [ ] Module 7
+- [ ] Module 8
+- [ ] Module 9
+- [ ] Module 10
+- [ ] Module 11
+- [ ] Module 12
+- [ ] Module 13
+- [ ] Module 14
+
+### What I Learned (Module 1 & 2)
+**Module 1 – Start Your Cyber Security Journey:**
+-Offensive Security
+-Defensive Security
+-Search Skills
+-Mystery Chest
+
+**Module 2 – Linux Fundamentals:**
+- Linux CLI Basics
+- File System Navigation Linux Fundamentals 1
+- Permissions & Users Linux Fundamentals 2
+- Processes & Services Linux Fundamentals 3
+- Mystery Chest
+
+### Next Step
+- Module 3 Windows and AD Fundamentals
