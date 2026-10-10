@@ -243,7 +243,7 @@ Documenting my path from zero to Offensive Security.
 - Mystery Chest
 
 ### Next Step
-- Module 3 Windows and AD Fundamentals
+- Module 4 Command Line
 
 - ### Module Completed
 - [x] Module 1 – Start Your Cyber Security Journey ✅
