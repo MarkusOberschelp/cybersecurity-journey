@@ -244,3 +244,11 @@ Documenting my path from zero to Offensive Security.
 
 ### Next Step
 - Module 3 Windows and AD Fundamentals
+
+- ### Module Completed
+- [x] Module 1 – Start Your Cyber Security Journey ✅
+- [x] Module 2 – Linux Fundamentals ✅
+- [x] Module 3 – Windows and AD Fundamentals ✅
+- [ ] Module 4 - In Progress
+
+
